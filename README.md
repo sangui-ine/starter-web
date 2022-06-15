@@ -16,3 +16,5 @@ Sample website with plenty of files for demos
 This ia deployment
 ###Adding something new
 gftujiik
+#####stash
+gghh
